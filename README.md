@@ -1,6 +1,6 @@
 ## ~$ whoami
       
-     🙅‍♂️ Olá! Eu sou o Matheus Borges(mrb) :D
+     🙅‍♂️ Olá! Eu sou o Matheus Borges!
      💼 Atualmente trabalhando como Analista de Suporte
      🚀 Estudando e me preparando para trabalhar com IaC
      📬 Contate-me no e-mail: matheusmrb@outlook.com.br
